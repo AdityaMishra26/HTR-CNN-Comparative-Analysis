@@ -1,0 +1,11 @@
+Sample No.,Ground Truth,Predicted Text,Result
+1,Fang-,Fang-,Correct
+2,",",",",Correct
+3,-,-,Correct
+4,in,in,Correct
+5,are,are,Correct
+6,course,Cawege,Incorrect
+7,parties,pastiers,Incorrect
+8,why,whky,Incorrect
+9,seven-,semur,Incorrect
+10,Referring,Reflrrinn,Incorrect

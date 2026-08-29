@@ -1,0 +1,17 @@
+Sample No.,Ground Truth,Predicted Text,Status
+1,Fang-,Fang-,Correct
+2,",",",",Correct
+3,-,-,Correct
+4,course,Cawege,Incorrect
+5,in,in,Correct
+6,are,are,Correct
+7,parties,pastiers,Incorrect
+8,dealing,dealing,Correct
+9,troops,troops,Correct
+10,"""","""",Correct
+11,why,whky,Incorrect
+12,not,not,Correct
+13,seven-,semur,Incorrect
+14,other,other,Correct
+15,Referring,Reflrrinn,Incorrect
+16,army,aray,Incorrect
