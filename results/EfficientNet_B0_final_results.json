@@ -1,0 +1,12 @@
+{
+    "model": "EfficientNet-B0 + BiLSTM + CTC",
+    "epochs": 5,
+    "parameters": 2865935,
+    "train_images": 30250,
+    "test_images": 3835,
+    "best_validation_cer": 0.4536,
+    "test_loss": 1.2987,
+    "test_cer": 0.4557,
+    "test_wer": 0.673,
+    "exact_word_accuracy": 0.327
+}
